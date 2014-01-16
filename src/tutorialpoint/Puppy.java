@@ -29,7 +29,7 @@ public class Puppy
 		mypuppy.getAge();
 		
 		System.out.println("accessing variable: " + 
-		mypuppy.puppyAge);
+				mypuppy.puppyAge);
 		
 	}
 }
